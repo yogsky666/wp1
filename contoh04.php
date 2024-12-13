@@ -1,5 +1,5 @@
 <?php
-echo "ini adalah PHP pertama saya";
+echo "ini adalah PHP pertama saya di WP 1";
 echo "<br>";
 echo "<h1>";
 echo "Web Programming 1";
